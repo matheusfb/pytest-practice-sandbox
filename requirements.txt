@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+requests
+ruff
+playwright
+pytest-playwright
