@@ -1,6 +1,6 @@
 import pytest
 
-from stuff.accum import Accumulator
+from tools.accum import Accumulator
 
 
 @pytest.fixture
