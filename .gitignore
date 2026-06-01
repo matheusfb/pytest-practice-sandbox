@@ -1,0 +1,46 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build / distribuição
+build/
+dist/
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Tox
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
